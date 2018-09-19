@@ -1,0 +1,7 @@
+.CommentsListItem {
+  margin-bottom: 1rem;
+}
+
+.CommentsListItem--faded {
+  opacity: 0.5;
+}

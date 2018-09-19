@@ -1,0 +1,14 @@
+.PostsListItem {
+  margin-bottom: 1rem;
+}
+
+.PostsListItem .UICard {
+  transition: all 0.2s ease-out;
+  position: relative;
+  z-index: -1;
+}
+
+.PostsListItem:hover .UICard {
+  box-shadow: 6px 6px 5px #c3c3c3;
+  transform: translate(-2px, -2px);
+}

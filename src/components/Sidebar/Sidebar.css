@@ -1,0 +1,12 @@
+.Sidebar {
+  position: fixed;
+  width: 200px;
+}
+
+.Sidebar > nav li {
+  margin-bottom: 1rem;
+}
+
+.Sidebar > nav li:last-of-type {
+  margin-bottom: 0;
+}
